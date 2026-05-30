@@ -1,0 +1,9 @@
+Q - Swap the values of two variables.
+
+value1 = int(input("Enter your first value :- "))
+value2 = int(input("Enter your second value :- "))
+value1 = value2 + value1
+value2 = value1 - value2
+value1 = value1 - value2
+print(value1)
+print(value2)
