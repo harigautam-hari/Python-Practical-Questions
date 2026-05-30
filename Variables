@@ -1,0 +1,6 @@
+ Q - Create variables for your name, age, and city, then print them.
+
+Name = input("Name :-")
+Age = int(input("Age :-"))
+City = input("City :-")
+print("Your name is", Name,"and you are", Age,"years old. You live in", City)
