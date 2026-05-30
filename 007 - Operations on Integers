@@ -1,0 +1,12 @@
+Q - Input two integers and print their sum, difference, product, and quotient.
+
+Num1 = int(input("Enter your first number :- "))
+Num2 = int(input("Enter your second number :- "))
+Sum = Num1 + Num2
+Mul = Num1 * Num2
+Diff = Num1 - Num2
+Quotient = Num1 / Num2
+print("Sum = " ,Sum)
+print("Product = " ,Mul)
+print("Difference = ", Diff)
+print("Quotient = ", Quotient)
