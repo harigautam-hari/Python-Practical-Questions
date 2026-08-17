@@ -1,4 +1,4 @@
- Q - Create variables for your name, age, and city, then print them.
+#Q - Create variables for your name, age, and city, then print them.
 
 Name = input("Name :-")
 Age = int(input("Age :-"))

@@ -1,4 +1,4 @@
-Q - Input two integers and print their sum, difference, product, and quotient.
+#Q - Input two integers and print their sum, difference, product, and quotient.
 
 Num1 = int(input("Enter your first number :- "))
 Num2 = int(input("Enter your second number :- "))

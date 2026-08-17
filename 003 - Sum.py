@@ -1,4 +1,4 @@
-Q - Write a program to print the sum of two numbers.
+#Q - Write a program to print the sum of two numbers.
 
 Value1 = int(input("Enter your first value :- "))
 Value2 = int(input("Enter your second value :- "))
