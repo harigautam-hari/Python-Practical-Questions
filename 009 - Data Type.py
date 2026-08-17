@@ -1,4 +1,4 @@
-Q - Create variables of type int, float, string, and boolean and print their types.
+#Q - Create variables of type int, float, string, and boolean and print their types.
 
 Name = "Hari"
 Age = 17
